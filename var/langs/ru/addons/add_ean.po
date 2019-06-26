@@ -11,3 +11,11 @@ msgstr "Добавление EAN кода"
 msgctxt "Addons::description::add_ean"
 msgid "add_ean_desc"
 msgstr "Этот модуль добавляет поле для ввода EAN кода продукта"
+
+msgctxt "Languages::product_ean"
+msgid "add_product_ean"
+msgstr "EAN код"
+
+msgctxt "Languages::product_ean_header"
+msgid "add_product_ean_header"
+msgstr "Добавление EAN кода"
