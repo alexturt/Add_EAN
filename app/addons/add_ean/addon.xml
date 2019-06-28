@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>add_ean</id>
+    <version>1.0</version>
+    <priority>10000</priority>
+    <status>active</status>
+    <default_language>en</default_language>
+    <auto_install>MULTIVENDOR,ULTIMATE</auto_install>
+    <queries>
+        <item for="install">
+            ALTER TABLE `?:products`
+            ADD `product_ean` VARCHAR(32) NOT NULL
+        </item>
+        <item for="uninstall">
+            ALTER TABLE `?:products`
+            DROP `product_ean`
+        </item>
+    </queries>
+</addon>

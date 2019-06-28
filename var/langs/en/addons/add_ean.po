@@ -1,0 +1,21 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::add_ean"
+msgid "add_ean_name"
+msgstr "Add EAN code"
+
+msgctxt "Addons::description::add_ean"
+msgid "add_ean_desc"
+msgstr "This module adds EAN code text field"
+
+msgctxt "Languages::product_ean"
+msgid "add_product_ean"
+msgstr "EAN code"
+
+msgctxt "Languages::product_ean_header"
+msgid "add_product_ean_header"
+msgstr "Add EAN code"
