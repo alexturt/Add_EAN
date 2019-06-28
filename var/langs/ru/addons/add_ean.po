@@ -14,7 +14,7 @@ msgstr "Этот модуль добавляет поле для ввода EAN 
 
 msgctxt "Languages::product_ean"
 msgid "add_product_ean"
-msgstr "EAN код"
+msgstr "Код EAN"
 
 msgctxt "Languages::product_ean_header"
 msgid "add_product_ean_header"
